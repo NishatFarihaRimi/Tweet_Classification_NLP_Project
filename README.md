@@ -28,7 +28,6 @@ NLP_twitter_disaster_classification_project/
 ├── requirements.txt # Python dependencies
 └── Disaster_Tweet_Classification_NLP_Project.ipynb # Jupyter notebook for exploration and prototyping
 └── README.md
---
 ``` 
 
 ---
