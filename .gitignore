@@ -1,0 +1,24 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (keep only sample data if needed)
+data/train.csv
+
+# Model files
+models/
+*.h5
+*.pkl
+
+# Environment & system files
+venv/
+.env/
+.DS_Store
+
+# Logs
+*.log
